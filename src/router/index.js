@@ -37,6 +37,10 @@ export default new Router({
       path: '/pages/articles/articleInfo',
       name: 'articleInfo',
       component: () => import('@/views/articles/articleInfo')
+    },{
+      path: '/pages/articles/articleInfo/:id',
+      name: 'articleInfo',
+      component: () => import('@/views/articles/articleInfo')
     }
   ]
 })
