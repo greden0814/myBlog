@@ -25,7 +25,7 @@
         {{ submit }}
       </div>
     </div>
-    <div class="footer">please treat me carefully1</div>
+    <div class="footer">please treat me carefully1dd</div>
     <el-dialog>
       
     </el-dialog>
